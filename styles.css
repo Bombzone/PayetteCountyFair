@@ -1,0 +1,13 @@
+:root {
+    --bs-primary: rgb(244, 248, 231);
+    --bs-primary-rgb: 244, 248, 231;
+    --bs-secondary: rgb(174, 192, 168);
+    --bs-secondary-rgb: 174, 192, 168;
+}
+
+body {
+    background: #FEFEFE;
+    background: linear-gradient(0deg, #FEFEFE, #5a8bda);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
